@@ -3,7 +3,7 @@ package com.liverpool.mx.my_account_data.data_source.local.payment_method
 import com.liverpool.mx.core_network.dto.payment_method.PaymentMethodResponse
 import javax.inject.Inject
 
-class PaymentMethodRemoteDataSource @Inject constructor(
+class PaymentMethodLocalDataSource @Inject constructor(
     /**Todo aqui se tiene que inyectar la DB o el servicio Retrofit) **/
     //private val service: ATGNetworkService
 ): IPaymentMethodLocalDataSource {
