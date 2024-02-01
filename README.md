@@ -15,7 +15,7 @@ El proyecto en general usa las herramientas que se listan a continuación:
 
 El nivel mímino de API es [`26`](https://android-arsenal.com/api?level=26#l26) por lo que el 93% de los telefónos android en el mercado serán compatibles con la alpicación, se usan las siguientes librerías y herramientas del ecosistema de Android:
 
-* [Kotlin](https://kotlinlang.org/) + [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - para realizar operaciones en segundo plano.
+* [Kotlin](https://kotlinlang.org/)
 * [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - Como inyector de dependencias
 * [Jetpack](https://developer.android.com/jetpack)
     * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
