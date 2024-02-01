@@ -1,5 +1,5 @@
 # POC - Clean Architecture
-Aplicación Android para prueba técnica Umvel Challenge.
+Proyecto Android donde se implementa clean arquitecture y modularización por features.
 
 # Características del Proyecto
 
